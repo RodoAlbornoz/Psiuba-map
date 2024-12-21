@@ -1,0 +1,200 @@
+{
+    "cbc": [
+        {
+            "materia": "Introducción al Pensamiento Científico",
+            "carga_horaria_semanal": 4
+        },
+
+        {
+            "materia": "Introducción al conocimiento de la Sociedad y el Estado",
+            "carga_horaria_semanal": 4  
+        },
+
+        {
+            "materia": "Psicología",
+            "carga_horaria_semanal": 4 
+        },
+
+        {
+            "materia": "Biología",
+            "carga_horaria_semanal": 6  
+        },
+
+        {
+            "materia": "Semiología",
+            "carga_horaria_semanal": 4 
+        },
+
+        {
+            "materia": "Matemática",
+            "carga_horaria_semanal": 6  
+        }
+    ],
+
+    "carrera": [
+        {
+            "materia": "Musicoterapia I",
+            "duracion": "Cuatrimestral",
+            "carga_horaria_semanal": 6  
+        },
+
+        {
+            "materia": "Taller de instrumentos aerófonos",
+            "duracion": "Cuatrimestral",
+            "carga_horaria_semanal": 4 
+        },
+
+        {
+            "materia": "Técnicas corporales",
+            "duracion": "Cuatrimestral",
+            "carga_horaria_semanal": 6
+        },
+
+        {
+            "materia": "Psicología del ciclo vital I",
+            "duracion": "Cuatrimestral",
+            "carga_horaria_semanal": 4  
+        },
+
+        {
+            "materia": "Sociedad e instituciones",
+            "duracion": "Cuatrimestral",
+            "carga_horaria_semanal": 4  
+        },
+
+        {
+            "materia": "Neurofisiopatologia",
+            "duracion": "Cuatrimestral",
+            "carga_horaria_semanal": 6  
+        },
+
+        {
+            "materia": "Técnica vocal I",
+            "duracion": "Cuatrimestral",
+            "carga_horaria_semanal": 4
+        },
+
+        {
+            "materia": "Taller de guitarra",
+            "duracion": "Cuatrimestral",
+            "carga_horaria_semanal": 4 
+        },
+
+        {
+            "materia": "Taller de instrumentos de percusión",
+            "duracion": "Cuatrimestral",
+            "carga_horaria_semanal": 4
+        },
+        
+        {
+            "materia": "Musicoterapia II",
+            "duracion": "Cuatrimestral",
+            "carga_horaria_semanal": 4
+        },
+
+        {
+            "materia": "Requisito Idioma: Inglés o Francés. Módulo I",
+            "duracion": "Cuatrimestral",
+            "carga_horaria_semanal": 4
+        },
+
+        {
+            "materia": "Psicología del ciclo vital II",
+            "duracion": "Cuatrimestral",
+            "carga_horaria_semanal": 4
+        },
+
+        {
+            "materia": "Teoría y Técnica de Grupos",
+            "duracion": "Cuatrimestral",
+            "carga_horaria_semanal": 4
+        },
+
+        {
+            "materia": "Neuropsicopatologia",
+            "duracion": "Cuatrimestral",
+            "carga_horaria_semanal": 6 
+        },
+
+        {
+            "materia": "Técnica vocal II",
+            "duracion": "Cuatrimestral",
+            "carga_horaria_semanal": 4
+        },
+
+        {
+            "materia": "Escuelas Psicológicas Contemporáneas",
+            "duracion": "Cuatrimestral",
+            "carga_horaria_semanal": 6
+        },
+
+        {
+            "materia": "Audioperceptiva aplicada I",
+            "duracion": "Cuatrimestral",
+            "carga_horaria_semanal": 6
+        },
+
+        {
+            "materia": "Psicopatologia",
+            "duracion": "Cuatrimestral",
+            "carga_horaria_semanal": 6
+        },
+
+        {
+            "materia": "Musicoterapia en el ámbito educativo",
+            "duracion": "Cuatrimestral",
+            "carga_horaria_semanal": 4
+        },
+
+        {
+            "materia": "Audioperceptiva aplicada II",
+            "duracion": "Cuatrimestral",
+            "carga_horaria_semanal": 6
+        },
+
+        {
+            "materia": "Antropología de la música",
+            "duracion": "Cuatrimestral",
+            "carga_horaria_semanal": 4
+        },
+
+        {
+            "materia": "Estadística y Metodologia de la Investigación",
+            "duracion": "Cuatrimestral",
+            "carga_horaria_semanal": 6
+        },
+
+        {
+            "materia": "Musicoterapia, comunicación y discapacidad",
+            "duracion": "Cuatrimestral",
+            "carga_horaria_semanal": 6
+        },
+
+        {
+            "materia": "Musicoterapia III",
+            "duracion": "Cuatrimestral",
+            "carga_horaria_semanal": 6
+        },
+
+        {
+            "materia": "Musicoterapia en Salud Mental",
+            "duracion": "Cuatrimestral",
+            "carga_horaria_semanal": 4
+        },
+
+        {
+            "materia": "Grupo de improvisación en musicoterapia",
+            "duracion": "Cuatrimestral",
+            "carga_horaria_semanal": 6
+        }
+    ],
+
+    "optativas": [
+        {
+
+        },
+        {
+
+        }
+    ]
+}
