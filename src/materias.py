@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import json
 
-with open('../carreras/lic_psicologia/materias.json', 'r') as file:
-    materias = json.load(file)
+with open('../carreras/lic_psicologia/materias.json', 'r') as archivo:
+    materias = json.load(archivo)
 
 grafo = nx.Graph()
 grafo.add_nodes_from(materias)

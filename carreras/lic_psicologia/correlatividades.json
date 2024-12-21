@@ -1,0 +1,233 @@
+{
+    "cbc": [
+        {
+            "materia": "Introducción al Pensamiento Científico",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Introducción al conocimiento de la Sociedad y el Estado",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Psicología",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Biología",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Semiología",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Matemática",
+            "correlativas": null
+        }
+    ],
+
+    "ciclo_formacion_general": [
+        {
+            "materia": "Psicología General",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Estadística",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Psicología Social",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Psicología y Epistemología Genética",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Psicoanálisis Freud",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Neurofisiología",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Historia de la Psicología",
+            "correlativas": [
+                "Psicología General"
+            ]
+        },
+
+        {
+            "materia": "Metodología de la Investigación",
+            "correlativas": [
+                "Psicología General",
+                "Estadística"
+            ]
+        },
+
+        {
+            "materia": "Salud Pública y Salud Mental",
+            "correlativas": [
+                "Psicología Social"
+            ]
+        },
+
+        {
+            "materia": "Teoría y Técnica de Grupos",
+            "correlativas": [
+                "Psicología Social",
+                "Psicoanálisis Freud"
+            ]
+        },
+
+        {
+            "materia": "Psicología Evolutiva Niñez",
+            "correlativas": [
+                "Psicoanálisis Freud",
+                "Psicología y Epistemología Genética"
+            ]
+        },
+
+        {
+            "materia": "Psicología Evolutiva Adolescencia",
+            "correlativas": [
+                "Psicología Evolutiva Niñez",
+                "Psicoanálisis Freud",
+                "Psicología y Epistemología Genética"
+            ]
+        },
+
+        {
+            "materia": "Psicopatología",
+            "correlativas": [
+                "Neurofisiología", 
+                "Psicología Evolutiva Adolescencia"
+            ]
+        },
+
+        {
+            "materia": "Teoría y Técnica de Exploración y Diagnóstico Psicológico. Módulo I",
+            "correlativas": [
+                "Psicología Evolutiva Adolescencia",
+                "Psicopatología"
+            ]
+        },
+
+        {
+            "materia": "Teoría y Técnica de Exploración y Diagnóstico Psicológico. Módulo II",
+            "correlativas": [
+                "Psicología Evolutiva Adolescencia",
+                "Psicopatología",
+                "Teoría y Técnica de Exploración y Diagnóstico Psicológico. Módulo I"
+            ]
+        }
+    ],
+
+    "requisito_idioma": [
+        {
+            "materia": "Inglés o Francés. Módulo I",
+            "correlativas": [
+                "Psicología General",
+                "Psicoanálisis Freud"
+            ]
+        },
+
+        {
+            "materia": "Inglés o Francés. Módulo II",
+            "correlativas": [
+                "Inglés o Francés. Módulo I",
+                "Psicología General",
+                "Psicoanálisis Freud"
+            ]
+        }
+    ],
+
+    "ciclo_formacion_profesional": [
+        {
+            "materia": "Psicología Ética y Derechos Humanos ",
+            "correlativas": [
+                "Psicología Social",
+                "Historia de la Psicología"
+            ]
+        },
+
+        {
+            "materia": "Psicología Institucional",
+            "correlativas": [
+                "Teoría y Técnica de Grupos"
+            ]
+        },
+
+        {
+            "materia": "Psicología Educacional",
+            "correlativas": [
+                "Salud Pública y Salud Mental",
+                "Psicología evolutiva Adolescencia"
+            ]
+        },
+
+        {
+            "materia": "Psicología del Trabajo",
+            "correlativas": [
+                "Salud Pública y Salud Mental",
+                "Teoría y Técnica de Grupos",
+                "Teoría y Técnica de Exploración y Diagnóstico Psicológico. Módulo II"
+            ]
+        },
+
+        {
+            "materia": "Clínica Psicológica y Psicoterapias: Clínica de Adultos",
+            "correlativas": [
+                "Psicopatología",
+                "Teoría y Técnica de Exploración y Diagnóstico Psicológico. Módulo I",
+                "Teoría y Técnica de Exploración y Diagnóstico Psicológico. Módulo II"
+            ]
+        },
+
+        {
+            "materia": "Psicología Jurídica",
+            "correlativas": [
+                "Psicopatología",
+                "Teoría y Técnica de Exploración y Diagnóstico Psicológico. Módulo I",
+                "Teoría y Técnica de Exploración y Diagnóstico Psicológico. Módulo II"
+            ]
+        },
+
+        {
+            "materia": "Clínica Psicológica y Psicoterapias: Psicoterapias, Emergencias e Interconsultas",
+            "correlativas": [
+                "Psicopatología",
+                "Teoría y Técnica de Exploración y Diagnóstico Psicológico. Módulo I",
+                "Teoría y Técnica de Exploración y Diagnóstico Psicológico. Módulo II"
+            ]
+        },
+
+        {
+            "materia": "Práctica Profesional y de Investigación",
+            "correlativas": [
+                "Salud Pública y Salud Mental"
+            ]
+        }
+    ],
+
+    "optativas": [
+        {
+
+        },
+        {
+
+        }
+    ]
+}
