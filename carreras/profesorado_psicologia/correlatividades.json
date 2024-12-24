@@ -1,0 +1,202 @@
+{
+    "cbc": [
+        {
+            "materia": "Introducción al Pensamiento Científico",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Introducción al conocimiento de la Sociedad y el Estado",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Psicología",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Biología",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Semiología",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Matemática",
+            "correlativas": null
+        }
+    ],
+
+    "ciclo_formacion_general": [
+        {
+            "materia": "Psicología General",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Estadística",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Psicología Social",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Psicología y Epistemología Genética",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Psicoanálisis Freud",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Neurofisiología",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Historia de la Psicología",
+            "correlativas": [
+                "Psicología General",
+                "Psicología Social"
+            ]
+        },
+
+        {
+            "materia": "Metodología de la Investigación",
+            "correlativas": [
+                "Psicología General",
+                "Estadística"
+            ]
+        },
+
+        {
+            "materia": "Salud Pública y Salud Mental",
+            "correlativas": [
+                "Psicología Social",
+                "Metodología de la Investigación"
+            ]
+        },
+
+        {
+            "materia": "Teoría y Técnica de Grupos",
+            "correlativas": [
+                "Psicología Social",
+                "Psicoanálisis Freud"
+            ]
+        },
+
+        {
+            "materia": "Psicología Evolutiva Niñez",
+            "correlativas": [
+                "Psicoanálisis Freud",
+                "Psicología y Epistemología Genética"
+            ]
+        },
+
+        {
+            "materia": "Psicología Evolutiva Adolescencia",
+            "correlativas": [
+                "Psicología Evolutiva Niñez",
+                "Psicoanálisis Freud",
+                "Psicología y Epistemología Genética"
+            ]
+        },
+
+        {
+            "materia": "Psicopatología",
+            "correlativas": [
+                "Neurofisiología", 
+                "Psicología Evolutiva Adolescencia"
+            ]
+        },
+
+        {
+            "materia": "Teoría y Técnica de Exploración y Diagnóstico Psicológico. Módulo I",
+            "correlativas": [
+                "Psicología Evolutiva Adolescencia",
+                "Psicopatología"
+            ]
+        },
+
+        {
+            "materia": "Teoría y Técnica de Exploración y Diagnóstico Psicológico. Módulo II",
+            "correlativas": [
+                "Psicología Evolutiva Adolescencia",
+                "Psicopatología",
+                "Teoría y Técnica de Exploración y Diagnóstico Psicológico. Módulo I"
+            ]
+        }
+    ],
+
+    "requisito_idioma": [
+        {
+            "materia": "Inglés o Francés. Módulo I",
+            "correlativas": [
+                "Psicología General",
+                "Psicoanálisis Freud"
+            ]
+        }
+    ],
+
+    "ciclo_formacion_profesional": [
+        {
+            "materia": "Psicología Institucional",
+            "correlativas": [
+                "Teoría y Técnica de Grupos",
+                "Salud Pública y Salud Mental"
+            ]
+        },
+
+        {
+            "materia": "Psicología Educacional",
+            "correlativas": [
+                "Teoría y Técnica de Grupos",
+                "Salud Pública y Salud Mental"
+            ]
+        }
+    ],
+
+    "area_formacion_pedagogica": [
+        {
+            "materia": "Teorías de la Educación y Sistema Educativo Argentino",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Didáctica General",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Didáctica Especial de la Psicología",
+            "correlativas": [
+                "Didáctica General"
+            ]
+        },
+
+        {
+            "materia": "Didáctica Especial y Práctica de la Enseñanza",
+            "correlativas": [
+                "Didáctica Especial de la Psicología"
+            ]
+        }
+    ],
+
+    "optativas": [
+        {
+
+        },
+        {
+
+        }
+    ]
+}

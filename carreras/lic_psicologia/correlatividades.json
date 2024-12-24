@@ -65,7 +65,8 @@
         {
             "materia": "Historia de la Psicología",
             "correlativas": [
-                "Psicología General"
+                "Psicología General",
+                "Psicología Social"
             ]
         },
 
@@ -80,7 +81,8 @@
         {
             "materia": "Salud Pública y Salud Mental",
             "correlativas": [
-                "Psicología Social"
+                "Psicología Social",
+                "Metodología de la Investigación"
             ]
         },
 

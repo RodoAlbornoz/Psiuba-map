@@ -1,0 +1,213 @@
+{
+    "cbc": [
+        {
+            "materia": "Introducción al Pensamiento Científico",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Introducción al conocimiento de la Sociedad y el Estado",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Psicología",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Biología",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Semiología",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Matemática",
+            "correlativas": null
+        }
+    ],
+
+    "carrera": [
+        {
+            "materia": "Teoría y Técnica de Terapia Ocupacional I",
+            "correlativas": null
+        },
+
+        {
+            "materia": "La Ocupación y su Proceso I",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Fisiología",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Anatomía",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Psicología de los Ciclos Vitales I",
+            "correlativas": null 
+        },
+
+        {
+            "materia": "Teoría y Técnica de Terapia Ocupacional II",
+            "correlativas": [
+                "Teoría y Técnica de Terapia Ocupacional I",
+                "La Ocupación y su Proceso I",
+                "Fisiología",
+                "Psicología de los Ciclos Vitales I"
+            ]
+        },
+
+        {
+            "materia": "La Ocupación y su Proceso II",
+            "correlativas": [
+                "La Ocupación y su Proceso I"
+            ]
+        },
+
+        {
+            "materia": "Clínica Médica y Neurológica",
+            "correlativas": [
+                "Fisiología"
+            ]
+        },
+
+        {
+            "materia": "Biomecánica",
+            "correlativas": [
+                "Anatomía"
+            ]
+        },
+        
+        {
+            "materia": "Psicología de los Ciclos Vitales II",
+            "correlativas": [
+                "Psicología de los Ciclos Vitales I"
+            ]
+        },
+
+        {
+            "materia": "Teoría y Técnica de Terapia Ocupacional III",
+            "correlativas": [
+                "Teoría y Técnica de Terapia Ocupacional II",
+                "Anatomía",
+                "Biomecánica"
+            ]
+        },
+
+        {
+            "materia": "La Ocupación y su Proceso III",
+            "correlativas": [
+                "La Ocupación y su Proceso II",
+                "Teoría y Técnica de Terapia Ocupacional III"
+            ]
+        },
+
+        {
+            "materia": "Ortopedia",
+            "correlativas": [
+                "Clínica Médica y Neurológica"
+            ]
+        },
+
+        {
+            "materia": "Psicopatología",
+            "correlativas": [
+                "Psicología de los Ciclos Vitales II"
+            ]
+        },
+
+        {
+            "materia": "Práctica Profesional I",
+            "correlativas": [
+                "Teoría y Técnica de Terapia Ocupacional II",
+                "La Ocupación y su Proceso II",
+                "Clínica Médica y Neurológica",
+                "Psicología de los Ciclos Vitales II"
+            ]
+        },
+
+        {
+            "materia": "Teoría y Técnica de Terapia Ocupacional IV",
+            "correlativas": [
+                "Teoría y Técnica de Terapia Ocupacional III",
+                "Psicopatología"
+            ]
+        },
+
+        {
+            "materia": "Psicología Social de las Instituciones y los Grupos",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Metodología de la Investigación y Estadística",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Práctica Profesional II",
+            "correlativas": [
+                "Práctica Profesional I"
+            ]
+        },
+
+        {
+            "materia": "Práctica Profesional III",
+            "correlativas": [
+                "Práctica Profesional II",
+                "Teoría y Técnica de Terapia Ocupacional IV",
+                "Psicología Social de las Instituciones y los Grupos",
+                "Psicopatología"
+            ]
+        },
+
+        {
+            "materia": "Práctica Profesional IV",
+            "correlativas": [
+                "Práctica Profesional III",
+                "La Ocupación y su Proceso III"
+            ]
+        },
+
+        {
+            "materia": "Teoría y Técnica de Terapia Ocupacional V",
+            "correlativas": [
+                "Teoría y Técnica de Terapia Ocupacional IV"
+            ]
+        },
+
+        {
+            "materia": "Orientación para el Ejercicio Profesional",
+            "correlativas": [
+                "Teoría y Técnica de Terapia Ocupacional V"
+            ]
+        }
+    ],
+    "requisito_idioma": [
+        {
+            "materia": "Inglés o Francés. Módulo I",
+            "correlativas": null
+        }
+    ],
+
+    "optativas": [
+        {
+
+        },
+        {
+
+        }
+    ]
+
+
+}

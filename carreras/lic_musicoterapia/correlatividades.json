@@ -1,0 +1,221 @@
+{
+    "cbc": [
+        {
+            "materia": "Introducción al Pensamiento Científico",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Introducción al conocimiento de la Sociedad y el Estado",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Psicología",
+            "correlativas": null 
+        },
+
+        {
+            "materia": "Biología",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Semiología",
+            "correlativas": null 
+        },
+
+        {
+            "materia": "Matemática",
+            "correlativas": null
+        }
+    ],
+
+    "carrera": [
+        {
+            "materia": "Musicoterapia I",
+            "correlativas": null 
+        },
+
+        {
+            "materia": "Taller de instrumentos aerófonos",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Técnicas corporales",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Psicología del ciclo vital I",
+            "correlativas": null  
+        },
+
+        {
+            "materia": "Sociedad e instituciones",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Neurofisiopatologia",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Técnica vocal I",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Taller de guitarra",
+            "correlativas": null
+        },
+
+        {
+            "materia": "Taller de instrumentos de percusión",
+            "correlativas": null
+        },
+        
+        {
+            "materia": "Musicoterapia II",
+            "correlativas": [
+                "Musicoterapia I"
+            ]
+        },
+
+        {
+            "materia": "Psicología del ciclo vital II",
+            "correlativas": [
+                "Psicología del ciclo vital I"
+            ]
+        },
+
+        {
+            "materia": "Teoría y Técnica de Grupos",
+            "correlativas": [
+                "Sociedad e Instituciones"
+            ]
+        },
+
+        {
+            "materia": "Neuropsicopatologia",
+            "correlativas": [
+                "Neurofisiopatología"
+            ]
+        },
+
+        {
+            "materia": "Técnica vocal II",
+            "correlativas": [
+                "Técnica vocal I"
+            ]
+        },
+
+        {
+            "materia": "Escuelas Psicológicas Contemporáneas",
+            "correlativas": [
+                "Musicoterapia II",
+                "Psicología del ciclo vital II",
+                "Teoría y Técnica de grupos",
+                "Neuropsicopatología"
+            ]
+        },
+
+        {
+            "materia": "Audioperceptiva aplicada I",
+            "correlativas": [
+                "Neuropsicopatología"
+            ]
+        },
+
+        {
+            "materia": "Psicopatologia",
+            "correlativas": "Escuelas Psicológicas Contemporáneas"
+        },
+
+        {
+            "materia": "Musicoterapia en el ámbito educativo",
+            "correlativas": [
+                "Musicoterapia II",
+                "Teoría y Técnica de grupos",
+                "Taller de instrumentos de percusión"
+            ]
+        },
+
+        {
+            "materia": "Audioperceptiva aplicada II",
+            "correlativas": [
+                "Psicología del ciclo vital II",
+                "Audioperceptiva aplicada I"
+            ]
+        },
+
+        {
+            "materia": "Antropología de la música",
+            "correlativas": [
+                "Audioperceptiva aplicada II"
+            ]
+        },
+
+        {
+            "materia": "Estadística y Metodologia de la Investigación",
+            "correlativas": [
+                "Psicopatología"
+            ]
+        },
+
+        {
+            "materia": "Musicoterapia, comunicación y discapacidad",
+            "correlativas": [
+                "Musicoterapia II",
+                "Audioperceptiva aplicada II",
+                "Neuropsicopatología"
+            ]
+        },
+
+        {
+            "materia": "Musicoterapia III",
+            "correlativas": [
+                "Psicopatología",
+                "Antropología de la música"
+            ]
+        },
+
+        {
+            "materia": "Musicoterapia en Salud Mental",
+            "correlativas": [
+                "Psicopatología",
+                "Antropología de la música"
+            ]
+        },
+
+        {
+            "materia": "Grupo de improvisación en musicoterapia",
+            "correlativas": [
+                "Psicopatología",
+                "Antropología de la música",
+                "Técnica vocal II",
+                "Taller de instrumentos de percusión"
+            ]
+        }
+    ],
+
+    "requisito_idioma": [
+        {
+            "materia": "Inglés o Francés. Módulo I",
+            "correlativas": [
+                "Musicoterapia I"
+            ]
+        }
+    ],
+
+    "optativas": [
+        {
+
+        },
+        {
+
+        }
+    ]
+}
