@@ -34,158 +34,235 @@
     "carrera": [
         {
             "materia": "Musicoterapia I",
+            "codigos": [
+                293
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 6  
         },
 
         {
             "materia": "Taller de instrumentos aerófonos",
+            "codigos": [
+                294
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 4 
         },
 
         {
             "materia": "Técnicas corporales",
+            "codigos": [
+                295
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 6
         },
 
         {
             "materia": "Psicología del ciclo vital I",
+            "codigos": [
+                296
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 4  
         },
 
         {
             "materia": "Sociedad e instituciones",
+            "codigos": [
+                297
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 4  
         },
 
         {
             "materia": "Neurofisiopatologia",
+            "codigos": [
+                298
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 6  
         },
 
         {
             "materia": "Técnica vocal I",
+            "codigos": [
+                299
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 4
         },
 
         {
             "materia": "Taller de guitarra",
+            "codigos": [
+                303
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 4 
         },
 
         {
             "materia": "Taller de instrumentos de percusión",
+            "codigos": [
+                308
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 4
         },
         
         {
             "materia": "Musicoterapia II",
-            "duracion": "Cuatrimestral",
-            "carga_horaria_semanal": 4
-        },
-
-        {
-            "materia": "Requisito Idioma: Inglés o Francés. Módulo I",
+            "codigos": [
+                328
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 4
         },
 
         {
             "materia": "Psicología del ciclo vital II",
+            "codigos": [
+                302
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 4
         },
 
         {
             "materia": "Teoría y Técnica de Grupos",
+            "codigos": [
+                301
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 4
         },
 
         {
             "materia": "Neuropsicopatologia",
+            "codigos": [
+                300
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 6 
         },
 
         {
             "materia": "Técnica vocal II",
+            "codigos": [
+                306
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 4
         },
 
         {
             "materia": "Escuelas Psicológicas Contemporáneas",
+            "codigos": [
+                311
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 6
         },
 
         {
             "materia": "Audioperceptiva aplicada I",
+            "codigos": [
+                307
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 6
         },
 
         {
             "materia": "Psicopatologia",
+            "codigos": [
+                304
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 6
         },
 
         {
             "materia": "Musicoterapia en el ámbito educativo",
+            "codigos": [
+                309
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 4
         },
 
         {
             "materia": "Audioperceptiva aplicada II",
+            "codigos": [
+                310
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 6
         },
 
         {
             "materia": "Antropología de la música",
+            "codigos": [
+                314
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 4
         },
 
         {
             "materia": "Estadística y Metodologia de la Investigación",
+            "codigos": [
+                313
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 6
         },
 
         {
             "materia": "Musicoterapia, comunicación y discapacidad",
+            "codigos": [
+                312
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 6
         },
 
         {
             "materia": "Musicoterapia III",
+            "codigos": [
+                315
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 6
         },
 
         {
             "materia": "Musicoterapia en Salud Mental",
+            "codigos": [
+                316
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 4
         },
 
         {
             "materia": "Grupo de improvisación en musicoterapia",
+            "codigos": [
+                317
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 6
+        }
+    ],
+
+    "requisito_idioma": [
+        {
+            "materia": "Inglés o Francés. Módulo I",
+            "duracion": "Cuatrimestral",
+            "carga_horaria_semanal": 4
         }
     ],
 

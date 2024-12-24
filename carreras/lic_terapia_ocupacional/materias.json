@@ -34,146 +34,217 @@
     "carrera": [
         {
             "materia": "Teoría y Técnica de Terapia Ocupacional I",
+            "codigos": [
+                401
+            ],
             "duracion": null,
             "carga_horaria_semanal": null
         },
 
         {
             "materia": "La Ocupación y su Proceso I",
+            "codigos": [
+                402
+            ],
             "duracion": null,
             "carga_horaria_semanal": null
         },
 
         {
             "materia": "Fisiología",
+            "codigos": [
+                404
+            ],
             "duracion": null,
             "carga_horaria_semanal": null
         },
 
         {
             "materia": "Anatomía",
+            "codigos": [
+                403
+            ],
             "duracion": null,
             "carga_horaria_semanal": null
         },
 
         {
             "materia": "Psicología de los Ciclos Vitales I",
+            "codigos": [
+                405
+            ],
             "duracion": null,
             "carga_horaria_semanal": null 
         },
 
         {
             "materia": "Teoría y Técnica de Terapia Ocupacional II",
+            "codigos": [
+                406
+            ],
             "duracion": null,
             "carga_horaria_semanal": null
         },
 
         {
             "materia": "La Ocupación y su Proceso II",
+            "codigos": [
+                407
+            ],
             "duracion": null,
             "carga_horaria_semanal": null
         },
 
         {
             "materia": "Clínica Médica y Neurológica",
+            "codigos": [
+                409
+            ],
             "duracion": null,
             "carga_horaria_semanal": null
         },
 
         {
             "materia": "Biomecánica",
+            "codigos": [
+                423
+            ],
             "duracion": null,
             "carga_horaria_semanal": null
         },
         
         {
             "materia": "Psicología de los Ciclos Vitales II",
+            "codigos": [
+                408
+            ],
             "duracion": null,
             "carga_horaria_semanal": null 
         },
 
         {
             "materia": "Teoría y Técnica de Terapia Ocupacional III",
+            "codigos": [
+                413
+            ],
             "duracion": null,
             "carga_horaria_semanal": null
         },
 
         {
             "materia": "La Ocupación y su Proceso III",
+            "codigos": [
+                419
+            ],
             "duracion": null,
             "carga_horaria_semanal": null
         },
 
         {
             "materia": "Ortopedia",
+            "codigos": [
+                410
+            ],
             "duracion": null,
             "carga_horaria_semanal": null
         },
 
         {
             "materia": "Psicopatología",
+            "codigos": [
+                411
+            ],
             "duracion": null,
             "carga_horaria_semanal": null 
         },
 
         {
             "materia": "Práctica Profesional I",
+            "codigos": [
+                412
+            ],
             "duracion": null,
             "carga_horaria_semanal": null
         },
 
         {
             "materia": "Teoría y Técnica de Terapia Ocupacional IV",
+            "codigos": [
+                416
+            ],
             "duracion": null,
             "carga_horaria_semanal": null
         },
 
         {
             "materia": "Psicología Social de las Instituciones y los Grupos",
+            "codigos": [
+                414
+            ],
             "duracion": null,
             "carga_horaria_semanal": null
         },
 
         {
             "materia": "Metodología de la Investigación y Estadística",
+            "codigos": [
+                420
+            ],
             "duracion": null,
             "carga_horaria_semanal": null
         },
 
         {
             "materia": "Práctica Profesional II",
+            "codigos": [
+                415
+            ],
             "duracion": null,
             "carga_horaria_semanal": null
         },
 
         {
             "materia": "Práctica Profesional III",
+            "codigos": [
+                419
+            ],
             "duracion": null,
             "carga_horaria_semanal": null
         },
 
         {
             "materia": "Práctica Profesional IV",
+            "codigos": [
+                422
+            ],
             "duracion": null,
             "carga_horaria_semanal": null
         },
 
         {
             "materia": "Teoría y Técnica de Terapia Ocupacional V",
+            "codigos": [
+                418
+            ],
             "duracion": null,
             "carga_horaria_semanal": null
         },
 
         {
             "materia": "Orientación para el Ejercicio Profesional",
+            "codigos": [
+                421
+            ],
             "duracion": null,
             "carga_horaria_semanal": null
-        },
+        }
+    ],
 
+    "requisito_idioma": [
         {
-            "materia": "Requisito Idioma: Inglés o Francés. Módulo I",
-            "duracion": null,
-            "carga_horaria_semanal": null
+            "materia": "Inglés o Francés. Módulo I",
+            "duracion": "Cuatrimestral",
+            "carga_horaria_semanal": 4
         }
     ],
 

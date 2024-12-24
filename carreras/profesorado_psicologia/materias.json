@@ -34,96 +34,159 @@
     "ciclo_formacion_general": [
         {
             "materia": "Psicología General",
+            "codigos": [
+                44,
+                45
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 6  
         },
 
         {
             "materia": "Estadística",
+            "codigos": [
+                60,
+                167
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 4  
         },
 
         {
             "materia": "Psicología Social",
+            "codigos": [
+                35,
+                36
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 6  
         },
 
         {
             "materia": "Psicología y Epistemología Genética",
+            "codigos": [
+                46,
+                47
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 6  
         },
 
         {
             "materia": "Psicoanálisis Freud",
+            "codigos": [
+                49,
+                50
+            ],
             "duracion": "Anual",
             "carga_horaria_semanal": 6  
         },
 
         {
             "materia": "Neurofisiología",
+            "codigos": [
+                48,
+                123
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 4  
         },
 
         {
             "materia": "Historia de la Psicología",
+            "codigos": [
+                118,
+                34
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 6 
         },
 
         {
             "materia": "Metodología de la Investigación",
+            "codigos": [
+                61,
+                62
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 6 
         },
 
         {
             "materia": "Salud Pública y Salud Mental",
+            "codigos": [
+                65,
+                66
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 6 
         },
 
         {
             "materia": "Teoría y Técnica de Grupos",
+            "codigos": [
+                63,
+                64
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 6 
         },
 
         {
             "materia": "Psicología Evolutiva Niñez",
+            "codigos": [
+                53,
+                54
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 6 
         },
 
         {
             "materia": "Psicología Evolutiva Adolescencia",
+            "codigos": [
+                55,
+                56
+            ],
             "duracion": "Cuatrimestral",
+            
             "carga_horaria_semanal": 4 
         },
 
         {
             "materia": "Psicopatología",
+            "codigos": [
+                37,
+                38
+            ],
             "duracion": "Anual",
             "carga_horaria_semanal": 6
         },
 
         {
             "materia": "Teoría y Técnica de Exploración y Diagnóstico Psicológico. Módulo I",
+            "codigos": [
+                58,
+                59
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 6
         },
 
         {
             "materia": "Teoría y Técnica de Exploración y Diagnóstico Psicológico. Módulo II",
+            "codigos": [
+                42,
+                113
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 6
-        },
+        }
+    ],
 
+    "requisito_idioma": [
         {
-            "materia": "Requisito Idioma: Inglés o Francés. Módulo I",
+            "materia": "Inglés o Francés. Módulo I",
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 4
         }
@@ -132,12 +195,20 @@
     "ciclo_formacion_profesional": [
         {
             "materia": "Psicología Institucional",
+            "codigos": [
+                39,
+                144
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 6
         },
 
         {
             "materia": "Psicología Educacional",
+            "codigos": [
+                41,
+                83
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 6
         }
@@ -146,24 +217,36 @@
     "area_formacion_pedagogica": [
         {
             "materia": "Teorías de la Educación y Sistema Educativo Argentino",
+            "codigos": [
+                901
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 6
         },
 
         {
             "materia": "Didáctica General",
+            "codigos": [
+                902
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 6
         },
 
         {
             "materia": "Didáctica Especial de la Psicología",
+            "codigos": [
+                903
+            ],
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 6
         },
 
         {
             "materia": "Didáctica Especial y Práctica de la Enseñanza",
+            "codigos": [
+                904
+            ],
             "duracion": "Anual",
             "carga_horaria_semanal": 6
         }
