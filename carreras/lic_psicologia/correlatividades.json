@@ -1,225 +1,225 @@
 {
     "cbc": [
         {
-            "materia": "Introducción al Pensamiento Científico",
+            "materia": "Introduccion al pensamiento cientifico",
             "correlativas": null
         },
 
         {
-            "materia": "Introducción al conocimiento de la Sociedad y el Estado",
+            "materia": "Introduccion al conocimiento de la sociedad y el estado",
             "correlativas": null
         },
 
         {
-            "materia": "Psicología",
+            "materia": "Psicologia",
             "correlativas": null
         },
 
         {
-            "materia": "Biología",
+            "materia": "Biologia",
             "correlativas": null
         },
 
         {
-            "materia": "Semiología",
+            "materia": "Semiologia",
             "correlativas": null
         },
 
         {
-            "materia": "Matemática",
+            "materia": "Matematica",
             "correlativas": null
         }
     ],
 
     "ciclo_formacion_general": [
         {
-            "materia": "Psicología General",
+            "materia": "Psicologia general",
             "correlativas": null
         },
 
         {
-            "materia": "Estadística",
+            "materia": "Estadistica",
             "correlativas": null
         },
 
         {
-            "materia": "Psicología Social",
+            "materia": "Psicologia social",
             "correlativas": null
         },
 
         {
-            "materia": "Psicología y Epistemología Genética",
+            "materia": "Psicologia y epistemología genetica",
             "correlativas": null
         },
 
         {
-            "materia": "Psicoanálisis Freud",
+            "materia": "Psicoanalisis Freud",
             "correlativas": null
         },
 
         {
-            "materia": "Neurofisiología",
+            "materia": "Neurofisiologia",
             "correlativas": null
         },
 
         {
-            "materia": "Historia de la Psicología",
+            "materia": "Historia de la psicologia",
             "correlativas": [
-                "Psicología General",
-                "Psicología Social"
+                "Psicologia general",
+                "Psicologia social"
             ]
         },
 
         {
-            "materia": "Metodología de la Investigación",
+            "materia": "Metodologia de la investigacion",
             "correlativas": [
-                "Psicología General",
-                "Estadística"
+                "Psicologia general",
+                "Estadistica"
             ]
         },
 
         {
-            "materia": "Salud Pública y Salud Mental",
+            "materia": "Salud publica y salud mental",
             "correlativas": [
-                "Psicología Social",
-                "Metodología de la Investigación"
+                "Psicologia social",
+                "Metodologia de la investigacion"
             ]
         },
 
         {
-            "materia": "Teoría y Técnica de Grupos",
+            "materia": "Teoria y tecnica de grupos",
             "correlativas": [
-                "Psicología Social",
-                "Psicoanálisis Freud"
+                "Psicologia social",
+                "Psicoanalisis Freud"
             ]
         },
 
         {
-            "materia": "Psicología Evolutiva Niñez",
+            "materia": "Psicologia evolutiva niñez",
             "correlativas": [
-                "Psicoanálisis Freud",
-                "Psicología y Epistemología Genética"
+                "Psicoanalisis Freud",
+                "Psicologia y epistemologia genetica"
             ]
         },
 
         {
-            "materia": "Psicología Evolutiva Adolescencia",
+            "materia": "Psicologia evolutiva adolescencia",
             "correlativas": [
-                "Psicología Evolutiva Niñez",
-                "Psicoanálisis Freud",
-                "Psicología y Epistemología Genética"
+                "Psicologia evolutiva niñez",
+                "Psicoanalisis Freud",
+                "Psicologia y epistemologia genetica"
             ]
         },
 
         {
-            "materia": "Psicopatología",
+            "materia": "Psicopatologia",
             "correlativas": [
-                "Neurofisiología", 
-                "Psicología Evolutiva Adolescencia"
+                "Neurofisiologia", 
+                "Psicologia evolutiva adolescencia"
             ]
         },
 
         {
-            "materia": "Teoría y Técnica de Exploración y Diagnóstico Psicológico. Módulo I",
+            "materia": "Teoria y tecnica de exploracion y diagnostico psicologico. Modulo I",
             "correlativas": [
-                "Psicología Evolutiva Adolescencia",
-                "Psicopatología"
+                "Psicologia evolutiva adolescencia",
+                "Psicopatologia"
             ]
         },
 
         {
-            "materia": "Teoría y Técnica de Exploración y Diagnóstico Psicológico. Módulo II",
+            "materia": "Teoria y tecnica de exploracion y diagnostico psicologico. Modulo II",
             "correlativas": [
-                "Psicología Evolutiva Adolescencia",
-                "Psicopatología",
-                "Teoría y Técnica de Exploración y Diagnóstico Psicológico. Módulo I"
+                "Psicologia evolutiva adolescencia",
+                "Psicopatologia",
+                "Teoria y tecnica de exploracion y diagnostico psicologico. Modulo I"
             ]
         }
     ],
 
     "requisito_idioma": [
         {
-            "materia": "Inglés o Francés. Módulo I",
+            "materia": "Ingles o Frances. Modulo I",
             "correlativas": [
-                "Psicología General",
-                "Psicoanálisis Freud"
+                "Psicologia general",
+                "Psicoanalisis Freud"
             ]
         },
 
         {
-            "materia": "Inglés o Francés. Módulo II",
+            "materia": "Ingles o Frances. Modulo II",
             "correlativas": [
-                "Inglés o Francés. Módulo I",
-                "Psicología General",
-                "Psicoanálisis Freud"
+                "Ingles o Frances. Modulo I",
+                "Psicologia general",
+                "Psicoanalisis Freud"
             ]
         }
     ],
 
     "ciclo_formacion_profesional": [
         {
-            "materia": "Psicología Ética y Derechos Humanos ",
+            "materia": "Psicologia etica y derechos humanos ",
             "correlativas": [
-                "Psicología Social",
-                "Historia de la Psicología"
+                "Psicologia social",
+                "Historia de la psicologia"
             ]
         },
 
         {
-            "materia": "Psicología Institucional",
+            "materia": "Psicologia institucional",
             "correlativas": [
-                "Teoría y Técnica de Grupos"
+                "Teoria y Tecnica de grupos"
             ]
         },
 
         {
-            "materia": "Psicología Educacional",
+            "materia": "Psicologia educacional",
             "correlativas": [
-                "Salud Pública y Salud Mental",
-                "Psicología evolutiva Adolescencia"
+                "Salud publica y salud mental",
+                "Psicologia evolutiva adolescencia"
             ]
         },
 
         {
-            "materia": "Psicología del Trabajo",
+            "materia": "Psicologia del trabajo",
             "correlativas": [
-                "Salud Pública y Salud Mental",
-                "Teoría y Técnica de Grupos",
-                "Teoría y Técnica de Exploración y Diagnóstico Psicológico. Módulo II"
+                "Salud publica y salud mental",
+                "Teoria y tecnica de grupos",
+                "Teoria y tecnica de exploracion y diagnóstico psicologico. Modulo II"
             ]
         },
 
         {
-            "materia": "Clínica Psicológica y Psicoterapias: Clínica de Adultos",
+            "materia": "Clinica psicologica y psicoterapias: Clinica de adultos",
             "correlativas": [
                 "Psicopatología",
-                "Teoría y Técnica de Exploración y Diagnóstico Psicológico. Módulo I",
-                "Teoría y Técnica de Exploración y Diagnóstico Psicológico. Módulo II"
+                "Teoria y tecnica de exploracion y diagnóstico psicologico. Modulo I",
+                "Teoria y tecnica de exploracion y diagnóstico psicologico. Modulo II"
             ]
         },
 
         {
-            "materia": "Psicología Jurídica",
+            "materia": "Psicologia juridica",
+            "correlativas": [
+                "Psicopatologia",
+                "Teoria y tecnica de exploracion y diagnóstico psicologico. Modulo I",
+                "Teoria y tecnica de exploracion y diagnóstico psicologico. Modulo II"
+            ]
+        },
+
+        {
+            "materia": "Clinica psicologica y psicoterapias: Psicoterapias, Emergencias e Interconsultas",
             "correlativas": [
                 "Psicopatología",
-                "Teoría y Técnica de Exploración y Diagnóstico Psicológico. Módulo I",
-                "Teoría y Técnica de Exploración y Diagnóstico Psicológico. Módulo II"
+                "Teoria y tecnica de exploracion y diagnóstico psicologico. Modulo I",
+                "Teoria y tecnica de exploracion y diagnóstico psicologico. Modulo II"
             ]
         },
 
         {
-            "materia": "Clínica Psicológica y Psicoterapias: Psicoterapias, Emergencias e Interconsultas",
+            "materia": "Practica profesional y de investigacion",
             "correlativas": [
-                "Psicopatología",
-                "Teoría y Técnica de Exploración y Diagnóstico Psicológico. Módulo I",
-                "Teoría y Técnica de Exploración y Diagnóstico Psicológico. Módulo II"
-            ]
-        },
-
-        {
-            "materia": "Práctica Profesional y de Investigación",
-            "correlativas": [
-                "Salud Pública y Salud Mental"
+                "Salud publica y salud mental"
             ]
         }
     ],

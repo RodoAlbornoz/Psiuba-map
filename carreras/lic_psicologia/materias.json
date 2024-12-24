@@ -1,39 +1,39 @@
 {
     "cbc": [
         {
-            "materia": "Introducción al Pensamiento Científico",
+            "materia": "Introduccion al pensamiento cientifico",
             "carga_horaria_semanal": 4
         },
 
         {
-            "materia": "Introducción al conocimiento de la Sociedad y el Estado",
+            "materia": "Introduccion al conocimiento de la sociedad y el estado",
             "carga_horaria_semanal": 4  
         },
 
         {
-            "materia": "Psicología",
+            "materia": "Psicologia",
             "carga_horaria_semanal": 4 
         },
 
         {
-            "materia": "Biología",
+            "materia": "Biologia",
             "carga_horaria_semanal": 6  
         },
 
         {
-            "materia": "Semiología",
+            "materia": "Semiologia",
             "carga_horaria_semanal": 6  
         },
 
         {
-            "materia": "Matemática",
+            "materia": "Matematica",
             "carga_horaria_semanal": 6  
         }
     ],
 
-    "ciclo_formacion_general": [
+    "ciclo_general": [
         {
-            "materia": "Psicología General",
+            "materia": "Psicologia general",
             "codigos": [
                 44,
                 45
@@ -43,7 +43,7 @@
         },
 
         {
-            "materia": "Estadística",
+            "materia": "Estadistica",
             "codigos": [
                 60,
                 167
@@ -53,7 +53,7 @@
         },
 
         {
-            "materia": "Psicología Social",
+            "materia": "Psicologia social",
             "codigos": [
                 35,
                 36
@@ -63,7 +63,7 @@
         },
 
         {
-            "materia": "Psicología y Epistemología Genética",
+            "materia": "Psicologia y epistemologia genetica",
             "codigos": [
                 46,
                 47
@@ -73,7 +73,7 @@
         },
 
         {
-            "materia": "Psicoanálisis Freud",
+            "materia": "Psicoanalisis Freud",
             "codigos": [
                 49,
                 50
@@ -83,7 +83,7 @@
         },
 
         {
-            "materia": "Neurofisiología",
+            "materia": "Neurofisiologia",
             "codigos": [
                 48,
                 123
@@ -93,7 +93,7 @@
         },
 
         {
-            "materia": "Historia de la Psicología",
+            "materia": "Historia de la psicologia",
             "codigos": [
                 118,
                 34
@@ -103,7 +103,7 @@
         },
 
         {
-            "materia": "Metodología de la Investigación",
+            "materia": "Metodologia de la investigacion",
             "codigos": [
                 61,
                 62
@@ -113,7 +113,7 @@
         },
 
         {
-            "materia": "Salud Pública y Salud Mental",
+            "materia": "Salud publica y salud mental",
             "codigos": [
                 65,
                 66
@@ -123,7 +123,7 @@
         },
 
         {
-            "materia": "Teoría y Técnica de Grupos",
+            "materia": "Teoria y tecnica de grupos",
             "codigos": [
                 63,
                 64
@@ -133,7 +133,7 @@
         },
 
         {
-            "materia": "Psicología Evolutiva Niñez",
+            "materia": "Psicologia evolutiva niñez",
             "codigos": [
                 53,
                 54
@@ -143,7 +143,7 @@
         },
 
         {
-            "materia": "Psicología Evolutiva Adolescencia",
+            "materia": "Psicologia evolutiva adolescencia",
             "codigos": [
                 55,
                 56
@@ -154,7 +154,7 @@
         },
 
         {
-            "materia": "Psicopatología",
+            "materia": "Psicopatologia",
             "codigos": [
                 37,
                 38
@@ -164,7 +164,7 @@
         },
 
         {
-            "materia": "Teoría y Técnica de Exploración y Diagnóstico Psicológico. Módulo I",
+            "materia": "Teoria y tecnica de exploracion y diagnostico psicologico. Modulo I",
             "codigos": [
                 58,
                 59
@@ -174,7 +174,7 @@
         },
 
         {
-            "materia": "Teoría y Técnica de Exploración y Diagnóstico Psicológico. Módulo II",
+            "materia": "Teoria y tecnica de exploracion y diagnostico psicologico. Modulo II",
             "codigos": [
                 42,
                 113
@@ -186,21 +186,21 @@
 
     "requisito_idioma": [
         {
-            "materia": "Inglés o Francés. Módulo I",
+            "materia": "Ingles o Frances. Modulo I",
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 4
         },
 
         {
-            "materia": "Inglés o Francés. Módulo II",
+            "materia": "Ingles o Frances. Modulo II",
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 4
         }
     ],
 
-    "ciclo_formacion_profesional": [
+    "ciclo_profesional": [
         {
-            "materia": "Psicología Ética y Derechos Humanos",
+            "materia": "Psicologia etica y derechos humanos",
             "codigos": [
                 71,
                 723
@@ -210,7 +210,7 @@
         },
 
         {
-            "materia": "Psicología Institucional",
+            "materia": "Psicologia institucional",
             "codigos": [
                 39,
                 144
@@ -220,7 +220,7 @@
         },
 
         {
-            "materia": "Psicología Educacional",
+            "materia": "Psicologia educacional",
             "codigos": [
                 41,
                 83
@@ -230,7 +230,7 @@
         },
 
         {
-            "materia": "Psicología del Trabajo",
+            "materia": "Psicologia del trabajo",
             "codigos": [
                 40,
                 724
@@ -240,7 +240,7 @@
         },
 
         {
-            "materia": "Clínica Psicológica y Psicoterapias: Clínica de Adultos",
+            "materia": "Clinica psicologica y psicoterapias: Clinica de adultos",
             "codigos": [
                 114,
                 115
@@ -250,7 +250,7 @@
         },
 
         {
-            "materia": "Psicología Jurídica",
+            "materia": "Psicologia juridica",
             "codigos": [
                 768,
                 769
@@ -260,7 +260,7 @@
         },
 
         {
-            "materia": "Clínica Psicológica y Psicoterapias: Psicoterapias, Emergencias e Interconsultas",
+            "materia": "Clinica psicologica y psicoterapias: Psicoterapias, Emergencias e Interconsultas",
             "codigos": [
                 70,
                 634
@@ -270,7 +270,7 @@
         },
 
         {
-            "materia": "Práctica Profesional y de Investigación",
+            "materia": "Practica profesional y de investigacion",
             "duracion": "Cuatrimestral",
             "carga_horaria_semanal": 6
         }
